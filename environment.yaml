@@ -1,5 +1,4 @@
-
-name: Editshield
+name: editshield
 channels:
   - pytorch
   - defaults
